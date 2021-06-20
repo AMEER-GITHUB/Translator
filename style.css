@@ -1,0 +1,61 @@
+html {
+  background-color: burlywood;
+}
+label {
+  font-size: larger;
+  font-weight: 600;
+}
+span {
+  color: black;
+  padding-left: 5rem;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+
+div {
+  width: 700px;
+  height: 500px;
+  margin: 5rem auto;
+  border: 3px solid black;
+  background-image: url("lang.png");
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+
+#para1 {
+  padding: 1rem;
+}
+
+#para2 {
+  padding: 1rem;
+  margin-top: -380px;
+  float: right;
+}
+
+textarea {
+  resize: none;
+  width: 300px;
+  height: 300px;
+  font-size: large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+
+#btn {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+button {
+  padding: 10px 10px;
+  font-size: large;
+}
+
+button:hover {
+  color: yellow;
+  background-color: green;
+  cursor: pointer;
+}
